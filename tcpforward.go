@@ -1,6 +1,6 @@
 // tcpforward go package
 // author	: felipe mattos
-// email	: fmattos@br.ibm.com / fmattos@gmx.com
+// email	: fmattos@gmx.com
 // date		: Dec/13/2019
 // updated	: Dec/13/2019
 // version	: 0.1
