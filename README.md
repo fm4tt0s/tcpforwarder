@@ -1,5 +1,5 @@
 # tcpforward
-The ever most simple TCP forwarder in GoLang - This thing ate all my forwarded packets!
+The evermore/st simple TCP forwarder in GoLang - This thing ate all my forwarded packets!
 
 Need to redirect traffic from one place to another? Testing needs? Something temporary? Or permanent? Dont wanna mess around SSH TCP forwarding setting? No problemo my friendo! By the power of GoLang we can redirect traffic received on localhost:port to remotehost:post by using directly socket attribution, not fancy nor complicated, yet, very functional and useful.
 
